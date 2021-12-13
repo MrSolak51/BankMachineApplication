@@ -1,0 +1,10 @@
+C:\Users\90532\source\repos\bankApp_\bankApp_\bin\Debug\bankApp_.exe.config
+C:\Users\90532\source\repos\bankApp_\bankApp_\bin\Debug\bankApp_.exe
+C:\Users\90532\source\repos\bankApp_\bankApp_\bin\Debug\bankApp_.pdb
+C:\Users\90532\source\repos\bankApp_\bankApp_\obj\Debug\bankApp_.csproj.AssemblyReference.cache
+C:\Users\90532\source\repos\bankApp_\bankApp_\obj\Debug\bankApp_.Form1.resources
+C:\Users\90532\source\repos\bankApp_\bankApp_\obj\Debug\bankApp_.Properties.Resources.resources
+C:\Users\90532\source\repos\bankApp_\bankApp_\obj\Debug\bankApp_.csproj.GenerateResource.cache
+C:\Users\90532\source\repos\bankApp_\bankApp_\obj\Debug\bankApp_.csproj.CoreCompileInputs.cache
+C:\Users\90532\source\repos\bankApp_\bankApp_\obj\Debug\bankApp_.exe
+C:\Users\90532\source\repos\bankApp_\bankApp_\obj\Debug\bankApp_.pdb
